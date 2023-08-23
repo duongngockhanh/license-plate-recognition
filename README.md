@@ -19,3 +19,11 @@ python run.py
 ```
 
 After that, the **main.ui** will appear, please click on **IN**, then the **in.ui** will appear, continue by clicking **Choose File**. Afterward, the model will start running the video and conducting License Plate Recognition. Currently, a similar task has not yet been developed for **out.ui**
+
+---
+
+*Optional*: If you encounter error related to cython-bbox, please install Visual Studio with C++ Desktop Development and run the following command line
+
+```commandline
+pip install -e git+https://github.com/samson-wang/cython_bbox.git#egg=cython-bbox
+```
