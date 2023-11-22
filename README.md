@@ -1,6 +1,4 @@
-# License Plate Recognition Application in Company
-
-*Note: This project belongs to my company, not me.*
+# License Plate Recognition Application
 
 This project focuses on developing a License Plate Recognition (LPR) application using PyQt5, a Python framework for building apps. Relevant knowledge areas include OCR, Object Detection, and Object Tracking.
 
